@@ -33,7 +33,14 @@ To analyze credit card transactions and build machine learning models to identif
 | Fraud F1-score | 7.82% | 81.71% |
 
 ## Dataset
-The dataset file `creditcard.csv` is not included in this repository because of its large size. Download the dataset from its original source and place it in the same folder as the notebook before running the code.
+The dataset file `creditcard.csv` is not included in this repository because of its large size. 
+
+The `creditcard.csv` dataset was used for this project.
+
+- **Original Dataset Source:** [Credit Card Fraud Detection – Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- **Reference Repository:** [sabin74/credit_card_fraud_detection](https://github.com/sabin74/credit_card_fraud_detection)
+
+The CSV file is not included in this repository because it exceeds GitHub's browser upload limit. Download the dataset from the source and place `creditcard.csv` in the same folder as `Fraud_Detection.ipynb` before running the notebook.
 
 ## Files
 - `Fraud_Detection.ipynb` — Jupyter Notebook containing analysis and models
