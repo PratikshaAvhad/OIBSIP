@@ -1,4 +1,0 @@
-Fraud Detection using Machine Learning – Level 2, Task 3 of the Oasis Infobyte Data Analytics Internship. 
-This project focuses on identifying fraudulent financial transactions using Exploratory Data Analysis (EDA), 
-handling imbalanced data, and training machine learning models. Model performance is evaluated using Precision, Recall,
-F1-Score, and ROC-AUC.
